@@ -79,4 +79,4 @@ Personal attacks, trolling, or disrespectful behavior will not be tolerated.
 License
 By contributing, you agree that your contributions will be licensed under the same license as this project.
 
-Thank you for helping improve DeepAlgo RL!
+Thank you for helping improve DeepAlgo RL
